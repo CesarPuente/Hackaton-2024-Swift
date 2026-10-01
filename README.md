@@ -1,2 +1,2 @@
 # Hackaton-2024-Swift
-Aplicación desarrollada durante un Hackathon de Swift para una institución bancaria, enfocada en ayudar a los usuarios a conocer y reducir su huella ecológica a través de sus hábitos y decisiones financieras.
+Aplicación desarrollada en Swift durante un Hackathon, enfocada en promover el cuidado de la huella ambiental mediante un sistema de recompensas. La aplicación permitía a los usuarios obtener puntos por realizar acciones sustentables, los cuales podían utilizarse como beneficios dentro de su cuenta bancaria. Además, incluía una pantalla dinámica que mostraba visualmente el impacto ambiental generado según la actividad del usuario.
